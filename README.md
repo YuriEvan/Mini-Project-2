@@ -52,5 +52,5 @@ ii. Apply the relevant two sample significance test method based on the results 
 
 #### Mini Project 2 Answers
 
-*Answers to the questions above, please click on the link below*
+*Answers to the questions above, please click on the link below* <br>
 [Click here to view code](https://github.com/YuriEvan/Mini-Project-2/blob/main/Mini_project_2_Final_Group%208.ipynb)
