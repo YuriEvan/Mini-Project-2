@@ -59,4 +59,4 @@ ii. Apply the relevant two sample significance test method based on the results 
 
 #### Remarks
 
-I have just graduated from BCG RISE course in October 2021. The answers may not be 100% perfect, as I am a learner and have just started learning python coding <br>
+I have graduated from BCG RISE course in October 2021. The answers may not be 100% perfect, as I am a learner and have just started learning python coding <br>
