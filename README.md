@@ -57,4 +57,4 @@ ii. Apply the relevant two sample significance test method based on the results 
 [Click here to view code](https://github.com/YuriEvan/Mini-Project-2/blob/main/Mini_project_2_Final_Group%208.ipynb)
 
 *Remarks* <br>
-I have just graduated in BCG RISE course October 2021. The answers may not be 100% perfect, as I am a learner and have just started learning python coding <br>
+I have just graduated from BCG RISE course in October 2021. The answers may not be 100% perfect, as I am a learner and have just started learning python coding <br>
