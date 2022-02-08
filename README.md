@@ -39,7 +39,7 @@ iii. Does the number of users decrease as the level progresses highlighting the 
 
 3.Generate cross tab for two player groups to understand the difference in the 1-day and 7-days retention rate & total number of game rounds played <br>
 
-4.Perform two-sample test for groups A and B to test statistical significance amongst the groups in the sum of game rounds played i.e., if groups A and B are statistically different <br>
+4.Perform two-sample test for groups A and B to test statistical significance amongst the groups in the sum of game rounds played i.e., _if groups A and B are statistically different_ <br>
 i. Check the assumptions of two sample test <br>
 a.Normal distribution-Apply Shapiro test <br>
 b.Homogeneity of variance–Apply Levene's Test <br>
@@ -48,3 +48,9 @@ ii. Apply the relevant two sample significance test method based on the results 
 5.Based on significance testing results, if groups A and B are statistically different, which level has more advantage in terms of player retention? <br>
 
 6.Bonus question:Use bootstrap resampling to plot retention rate distribution for both groups to visualize effect of different version of the game on retention <br>
+
+
+#### Mini Project 2 Answers
+
+*Answers to the questions above, please click on the link below*
+[Click here to view code](https://github.com/YuriEvan/Mini-Project-2/blob/main/Mini_project_2_Final_Group%208.ipynb)
