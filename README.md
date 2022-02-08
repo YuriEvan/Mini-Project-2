@@ -30,6 +30,7 @@ Pauline - model iterations / model development & validation <br>
 • And group B would encounter the gate at level 40
 
 #### Mini Project 2 questions
+
 1.Detect and resolve problems in the data (Missing value, Outliers, Unexpected value, etc.) <br>
 
 2.Plot summary statistics and identify trends to answer basis business questions <br>
