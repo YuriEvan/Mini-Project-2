@@ -21,7 +21,7 @@ Pauline - model iterations / model development & validation <br>
 
 #### Project objectives
  _Business Objective_ 
- ncrease YoY revenue from game purcahses by increasing retention rate of gamers <br>
+ - Increase YoY revenue from game purcahses by increasing retention rate of gamers <br>
 
  _Hypothesis_ 
 - Company CEO believes that players are churning because the first gate encountered at level 30 is too early which forces players to wait before they can proceed further in the game <br>
