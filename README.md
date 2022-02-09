@@ -26,8 +26,7 @@ Pauline - model iterations / model development & validation <br>
  _Hypothesis_ 
 - Company CEO believes that players are churning because the first gate encountered at level 30 is too early which forces players to wait before they can proceed further in the game <br>
 - In order to increase player retention rate, developers ran AB -test by moving the first gate from level 30 to level 40 for some players <br>
-• i.e., group A would encounter the gate at level 30
-• And group B would encounter the gate at level 40
+• i.e., group A would encounter the gate at level 30 and group B would encounter the gate at level 40
 
 #### Mini Project 2 questions
 
